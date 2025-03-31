@@ -7,9 +7,8 @@
 **DOCENTE:**
 * *Mora Felix Zuriel Dathan*
 
-**INTEGRANTES DEL EQUIPO:**
+**ALUMNO:**
 * *Cardoza Perez Agustin*
-* *Ramirez Moreno Ivan Eduardo*
 
 **HORARIO:**
 * *16:00 - 17:00*
